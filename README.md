@@ -1,8 +1,3 @@
--------------------------------------------------------------
-Voyant technical test of Fernando Bernardino
-Version - Exercise 3
--------------------------------------------------------------
-
 Generate WAR:
 -------------
 mvn clean install
